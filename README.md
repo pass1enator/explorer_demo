@@ -133,4 +133,4 @@ Los botones superiores cargan la lista d e ficheros, sube de nivel, borra el fic
 
 Además se tiene un menú contextual para copiar, cortar y pegar.
 
-[!imagen](https://github.com/pass1enator/explorer_demo/blob/master/images/ejemplo.png)
+[!imagen](https://raw.githubusercontent.com/pass1enator/explorer_demo/master/images/ejemplo.png)
